@@ -1,2 +1,1 @@
-
-$${\color{white}Vamp __or__ Belphie}$$
+i use this account to test html and latex because preview lags crazy
